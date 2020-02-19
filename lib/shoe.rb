@@ -48,8 +48,8 @@ def cobble
   puts "Your shoe is as good as new!"
 end
 
-book = book.new
-book.condition = "new"
+shoe = shoe.new
+shoe.condition = "new"
 end   
 
 
