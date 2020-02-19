@@ -40,7 +40,7 @@ def condition=(condition)
   @condition = condition 
 end 
 
-def conditoin
+def condition
   @condition
 end   
 
