@@ -45,7 +45,7 @@ def condition
 end   
 
 def cobble
-  puts 
+  puts "new"
 end   
   
 
