@@ -5,7 +5,7 @@ class Shoe
   end 
 
 def brand
-  @brand = brand 
+  @brand 
 end   
 
 def brand
@@ -49,5 +49,4 @@ def cobble
 end 
 end   
 
-shoe = Shoe.new 
-shoe.cobble 
+shoe
