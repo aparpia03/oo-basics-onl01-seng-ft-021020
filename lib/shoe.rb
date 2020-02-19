@@ -49,4 +49,5 @@ def cobble
 end
 end   
 
-
+shoe = Shoe.new 
+shoe == cobble 
