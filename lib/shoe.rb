@@ -46,8 +46,6 @@ end
 
 def cobble
   puts "new"
-end   
-  
-
+end 
 
 end   
