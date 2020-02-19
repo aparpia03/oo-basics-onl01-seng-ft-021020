@@ -45,7 +45,7 @@ def condition
 end   
 
 def cobble
-  puts "new"
+  puts "Your shoe is as good as new!"
 end 
 
 end   
