@@ -15,6 +15,17 @@ def color=(color)
   @color = color 
 end 
 
+def size=(size)
+  @size = size 
+end 
+
+def material=(material)
+  @material = material 
+end 
+
+def condition=(condition)
+  @condition = condition 
+end 
 
 
 end   
